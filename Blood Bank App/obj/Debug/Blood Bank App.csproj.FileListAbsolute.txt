@@ -1,0 +1,9 @@
+c:\users\saad xeon\documents\visual studio 2013\Projects\Blood Bank App\Blood Bank App\bin\Debug\Blood Bank App.exe.config
+C:\Users\Saad Xeon\documents\visual studio 2013\Projects\Blood Bank App\Blood Bank App\bin\Debug\Blood Bank App.exe
+C:\Users\Saad Xeon\documents\visual studio 2013\Projects\Blood Bank App\Blood Bank App\bin\Debug\Blood Bank App.pdb
+C:\Users\Saad Xeon\documents\visual studio 2013\Projects\Blood Bank App\Blood Bank App\obj\Debug\Blood Bank App.csprojResolveAssemblyReference.cache
+C:\Users\Saad Xeon\documents\visual studio 2013\Projects\Blood Bank App\Blood Bank App\obj\Debug\Blood_Bank_App.Form1.resources
+C:\Users\Saad Xeon\documents\visual studio 2013\Projects\Blood Bank App\Blood Bank App\obj\Debug\Blood_Bank_App.Properties.Resources.resources
+C:\Users\Saad Xeon\documents\visual studio 2013\Projects\Blood Bank App\Blood Bank App\obj\Debug\Blood Bank App.csproj.GenerateResource.Cache
+C:\Users\Saad Xeon\documents\visual studio 2013\Projects\Blood Bank App\Blood Bank App\obj\Debug\Blood Bank App.exe
+C:\Users\Saad Xeon\documents\visual studio 2013\Projects\Blood Bank App\Blood Bank App\obj\Debug\Blood Bank App.pdb
